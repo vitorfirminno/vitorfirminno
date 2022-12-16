@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego.
-- 🌱 Estudando C#,SQL e PHP.
+- 🌱 Estudando React, Node e TypeScipt.
 - 😎 Meu principal objetivo atualmente é me especializar em C# .NET core.
 - 🎉 Tenho 18 anos.
 
