@@ -7,6 +7,14 @@
 - 🎉 Tenho 18 anos.
 
 <hr>
+
+<div align="center">
+  <h5>Status:</h5>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfirminno&show_icons=true&theme=radical)
+</div>
+
+<hr>
 <div>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <img align="center" alt="HTML" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
