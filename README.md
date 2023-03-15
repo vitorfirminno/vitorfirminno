@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego.
-- 🌱 Estudando React, Node e TypeScipt.
-- 😎 Meu principal objetivo atualmente é me especializar em C# .NET core.
+- 🌱 Estudando Node, Java e Golang.
+- 😎 Meu principal objetivo atualmente é encontrar uma oportunidade de emprego na área de desenvolvimento.
 - 🎉 Tenho 19 anos.
 
 <hr>
