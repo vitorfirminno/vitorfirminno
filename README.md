@@ -1,10 +1,10 @@
-### Oi! Eu sou o Vitor Firmino   👋
+# Oi! Eu sou o Vitor Firmino   👋
 
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 - 🌱 Estudando Node, Java e Golang.
 - 😎 Meu principal objetivo atualmente é encontrar uma oportunidade de emprego na área de desenvolvimento.
-- 🎉 Tenho 19 anos.
+- 🎉 Tenho 20 anos.
 
 <hr>
 
