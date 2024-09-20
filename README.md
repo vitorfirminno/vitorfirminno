@@ -25,7 +25,7 @@
  <img align="center" alt="Js" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="C#" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" alt=".NETcore" height="100" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
- <img align="center" alt="java" height="100" width="60"src="https://icons8.com.br/icon/2572/java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000)" />
+ 
  
  </div>
  <hr>
