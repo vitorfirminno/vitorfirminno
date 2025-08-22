@@ -2,7 +2,7 @@
 
 
 
-- Typescript, Java e Golang.
+- Typescript e Java.
 - 🎉 Tenho 21 anos.
 
 <hr>
